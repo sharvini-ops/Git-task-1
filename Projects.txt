@@ -1,2 +1,8 @@
-Project 1: Portfolio Website
-Project 2: Calculator App
+Project 1: 
+        Face Recognition Based on Attendance Monitoring System using Machine Learning
+Project 2:
+        Student Mental Health Dectecion using Deep Learning
+Project 3:
+        AI-Empowered Authorized Area Monitoring and Alert System using YOLOv8
+Project 4:
+        Fingerprint Pattern Recognition for Blood Group Classification using Deep Learning
